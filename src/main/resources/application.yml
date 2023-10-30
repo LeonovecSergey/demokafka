@@ -1,0 +1,4 @@
+application:
+  site-host-name: LOCAL
+  api-scheme: http
+  api-host: 'localhost:8080'

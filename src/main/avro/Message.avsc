@@ -1,0 +1,12 @@
+{
+  "namespace": "com.epam.kafkademo",
+  "type": "record",
+  "name": "Message",
+  "fields": [
+    { "name": "id", "type": "int" },
+    { "name": "name", "type": "string" },
+    { "name": "age", "type": "int" },
+    { "name": "active", "type": "boolean" },
+    { "name": "email", "type": "string" }
+  ]
+}
